@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm kavya</h1>
+<h3 align="center">A passionate Full-Stack Developer | Security Enthusiast | DevOps Learner</h3>
 
-<!--
-**srikavya07/srikavya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+- 🎓 Master's in Computer & Information Systems (focus: Security, Auditing, Information Assurance)
+- 🌱 Improving my skills in **Spring Boot**, **AWS**, **DevSecOps**
+
+### 🧑‍💻 Tech Stack
+```yaml
+Languages: Java | Python | JavaScript | SQL
+Backend: Spring Boot | REST APIs | Microservices
+Frontend: Angular | HTML5 | CSS3 | TypeScript
+Tools: Docker | Git | Jenkins | Postman | JIRA
+Cloud: AWS | Heroku
+Databases: MySQL | MongoDB | PostgreSQL
