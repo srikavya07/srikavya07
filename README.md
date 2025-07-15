@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm kavya</h1>
-<h3 align="center">A passionate  Java Full-Stack Developer | Security Enthusiast | ML | Java Developer  </h3>
+👋 Hi, I'm Kavya Damisetty  
+🎓 Recent Computer Science Graduate | 💻 Software Developer | 🤖 ML Enthusiast
 
----
+🚀 Tech Stack:
+- 💡 **Languages:** Python | Java | JavaScript | SQL
+- 🌐 **Full Stack:** Spring Boot | Angular | REST APIs | HTML | CSS
+- 🧠 **Machine Learning:** Scikit-learn | TensorFlow | Keras | Pandas | NLP | LSTM
+- 🔧 **Tools & DevOps:** Git | Docker | Postman | Jupyter Notebook | VS Code
 
-### 🔭 Currently working on
-- 🎓 Master's in Computer & Information Systems
-- 🌱 Improving my skills in **Machine Learning** , **Spring Boot**, **AWS**, **Java**, **Spring AI**, **TypeScript**
+📈 I’ve built:
+- An AI-powered chatbot (Spring Boot + OpenAI)
+- A Netflix-style recommendation system
+- Spam email & fake news detection models
+- End-to-end full-stack applications with real-time data processing
 
-### 🧑‍💻 Tech Stack
-```yaml
-Languages: Java | Python | JavaScript | SQL
-Backend: Spring Boot | REST APIs | Microservices
-Frontend: Angular | HTML5 | CSS3 | TypeScript
-Tools: Docker | Git | Jenkins | Postman | JIRA
-Cloud: AWS
-Databases: MySQL | MongoDB | PostgreSQL
+🛠️ Passionate about solving real-world problems using clean code, scalable architecture, and data-driven intelligence.
+
+📫 Let’s connect: [https://www.linkedin.com/in/srikavyadamisetty/] | 📂 Projects below 👇
