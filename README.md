@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm kavya</h1>
-<h3 align="center">A passionate  Java Full-Stack Developer | Security Enthusiast | Java Developer </h3>
+<h3 align="center">A passionate  Java Full-Stack Developer | Security Enthusiast | ML | Java Developer  </h3>
 
 ---
 
 ### 🔭 Currently working on
 - 🎓 Master's in Computer & Information Systems
-- 🌱 Improving my skills in **Spring Boot**, **AWS**, **Java**, **Spring AI**, **TypeScript**
+- 🌱 Improving my skills in **Machine Learning** , **Spring Boot**, **AWS**, **Java**, **Spring AI**, **TypeScript**
 
 ### 🧑‍💻 Tech Stack
 ```yaml
